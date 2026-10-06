@@ -1,6 +1,4 @@
-# psyvance
-
-Psychology ideas
+# Psyvance: modelarea emotiilor, a deciziilor si a inteligentei artificiale
 
 ### ***Modelare partii emotionale***
 
